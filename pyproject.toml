@@ -1,7 +1,0 @@
-# Метаданные для ComfyUI / ComfyUI-Manager (читаются при загрузке ноды;
-# pip ничего из этого файла не устанавливает — зависимостей у ноды нет).
-
-[project]
-name = "touch-me"
-version = "0.1.0"
-description = "Touch me — mobile touch-first web UI for ComfyUI (web-only node: serves /touchme)"
